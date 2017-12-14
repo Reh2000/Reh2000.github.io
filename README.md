@@ -20,3 +20,11 @@ I have many constraints leading upto developing this website. This is time, time
 ## Benefits
 
 Some of the benefits, I have with this, is that, there is a lot of research to be done, on certain things, I don't know, this could potenially be a huge plus for me, because then, I will know how to do something new, which means, I will be expanding my knowledge on HTML/CSS/JS. Another advantage is that, there are lot of tutorials online for me to view, these are free and full of code, that is extremely helpful to me, in completing my website.
+
+## Nature of Interactivity
+
+I have also added means of interactivity. I have added a blog page, where, I interact with my viewers of the new things that have been going on, and any updates concerning the camp are, this is good because, viewers can first hand see any updates or any frequently asked questions, which may concern them, and they can see the answer straight away. I have also added a newsletter, where viewers can subscribe to, which the invasion team can interact to viewers, by posting stuff that may engage the viewer.
+
+## Complexity of a website
+
+honestly.. not even sure :sadface:
