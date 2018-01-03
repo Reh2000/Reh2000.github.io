@@ -15,7 +15,7 @@ I am aiming to achieve to a user-friendly website, which is mobile optimised and
 
 ## Constraints
 
-I have many constraints leading upto developing this website. This is time, time is essential for this task, because we're given a deadline, which then we have to submit our website and send it off, if we're late and miss the deadline, it can have concequences on our grades, such as being restricted to a Pass grade, even though the website is a merit standard, therefore time will be the biggest constraint, and I will need to be fast in ensuring that my website meets a specific standard. Another constraint will be, the coding part, this is because, I'm just a beginner at programming, and creating a high level website requires a lot of time and skills, therefore, I will need to research a lot of codes, to see how to do specific things. Another constraint for me, will be resources, this is because, I can not access Photoshop at home, because of the price of it, it is an expensive piece of software, but the College get it at a cheaper rate, this can impact my time, because I will need to wait to come to College to finish up any designs. :cold_sweat:
+I have many constraints leading upto developing this website. This is time, time is essential for this task, because we're given a deadline, which then we have to submit our website and send it off, if we're late and miss the deadline, it can have concequences on our grades, such as being restricted to a Pass grade, even though the website is a merit standard, therefore time will be the biggest constraint, and I will need to be fast in ensuring that my website meets a specific standard. Another constraint will be, the coding part, this is because, I'm just a beginner at programming, and creating a high level website requires a lot of time and skills, therefore, I will need to research a lot of codes, to see how to do specific things. Another constraint for me, will be resources, this is because, I can not access Photoshop at home, because of the price of it, it is an expensive piece of software, but the College get it at a cheaper rate, this can impact my time, because I will need to wait to come to College to finish up any designs.
 
 ## Benefits
 
@@ -27,4 +27,4 @@ I have also added means of interactivity. I have added a blog page, where, I int
 
 ## Complexity of a website
 
-:confused:
+Some of the complexity of the webite will be the theme/design of the website, it needs to be easy to view whilst being easy on the eyes.
